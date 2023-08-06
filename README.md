@@ -3,7 +3,6 @@
 
 - **Location:** Wageningen, Gelderland, Netherlands
 - **Email:** [moseskollehsesay@gmail.com](mailto:moseskollehsesay@gmail.com)
-- **Phone:** +31659361423
 - **LinkedIn:** [linkedin.com/in/moseskollehsesaygeology](https://linkedin.com/in/moseskollehsesaygeology)
 - **GitHub:** [moseskollehsesay.github.io](https://moseskollehsesay.github.io/portfolio)
 
