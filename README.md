@@ -1,5 +1,5 @@
 
-# MOSES KOLLEH SESAY
+# Environmental Data Analyst & Geospatial Specialist
 
 - **Location:** Wageningen, Gelderland, Netherlands
 - **Email:** [moseskollehsesay@gmail.com](mailto:moseskollehsesay@gmail.com)
