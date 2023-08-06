@@ -10,6 +10,7 @@
 ## Summary
 
 Experienced Environmental Professional with over 2 years in research and water management. Skilled in geospatial analysis (QGIS, ArcGIS, R programming), data analysis (Python, SQL, Tableau, PowerBI), and project management. Contributing to UN disaster risk reduction efforts and leveraging these skills towards sustainable water and climate solutions.
+
 ---
 
 ## Skills
